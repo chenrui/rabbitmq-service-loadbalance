@@ -1,0 +1,6 @@
+{application, rabbitmq_service_loadbalance_exchange,
+ [{description, "Service Loadbalance Exchange Type"},
+  {vsn, ""},
+  {modules, []},
+  {registered, []},
+  {applications, [rabbit]}]}.
